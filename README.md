@@ -1,8 +1,29 @@
 # Welcome to your Lovable project
 
+
 ## Project info
 
 **URL**: https://lovable.dev/projects/cf8a1b7c-4e8a-480a-8fdc-0aa8fc258dbc
+
+
+## PICTURES ##
+
+![image](https://github.com/user-attachments/assets/eb5217ae-f32d-4541-a344-2c362a2ee0d5)
+
+
+![image](https://github.com/user-attachments/assets/4b9a6cf4-5695-44f6-a86c-0e61828304a6)
+
+![image](https://github.com/user-attachments/assets/1134d45a-3d18-4f20-942e-a834005cbf1d)
+
+![image](https://github.com/user-attachments/assets/35faada1-92a8-4072-9a1b-c1c6079f9491)
+
+
+![image](https://github.com/user-attachments/assets/26f62f34-29fb-4b04-aeaa-0c0c30c6b1b3)
+
+![image](https://github.com/user-attachments/assets/3eccfac2-00e7-4e53-89bf-08baf19ff12c)
+
+
+![image](https://github.com/user-attachments/assets/686853af-fad2-42fb-ac25-e584b1264296)
 
 ## How can I edit this code?
 
