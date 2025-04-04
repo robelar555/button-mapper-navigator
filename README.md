@@ -3,6 +3,43 @@
 ##
 ## Project info
 
+This project convert JSON in format:
+
+[ {"name": "personlig-info",
+    "buttons": [
+      "Logg ut",
+      "Avbryt",
+      "Flere detaljer",
+      "Neste"
+    ]},
+      {
+    "name": "personlig-info",
+    "buttons": [
+      "Logg ut",
+      "Avbryt",
+      "Flere detaljer",
+      "Neste"
+    ]}
+   
+  ]
+  
+to format like
+
+[
+  {
+    "sourceComponentName": "arbeidserfaring",
+    "sourceButtonText": "Avbryt",
+    "targetComponentName": "forhåndsvisning",
+    "conditions": "Når en er logget ut"
+  },
+  {
+    "sourceComponentName": "arbeidserfaring",
+    "sourceButtonText": "Logg ut",
+    "targetComponentName": "forhåndsvisning",
+    "conditions": "Når skjemaet er ugyldig."
+  }
+]
+    
 **URL**: https://lovable.dev/projects/cf8a1b7c-4e8a-480a-8fdc-0aa8fc258dbc
 
 
