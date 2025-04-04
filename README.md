@@ -26,9 +26,11 @@ This project convert JSON in format:
     ]
   }
 ]
-```json
+```
+
 to format like
 
+```json
 [
   {
     "sourceComponentName": "arbeidserfaring",
@@ -43,6 +45,8 @@ to format like
     "conditions": "Når skjemaet er ugyldig."
   }
 ]
+
+```
     
 **URL**: https://lovable.dev/projects/cf8a1b7c-4e8a-480a-8fdc-0aa8fc258dbc
 
