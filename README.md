@@ -5,8 +5,27 @@
 
 This project convert JSON in format:
 
-<pre> ```json [ { "name": "personlig-info", "buttons": [ "Logg ut", "Avbryt", "Flere detaljer", "Neste" ] }, { "name": "personlig-info", "buttons": [ "Logg ut", "Avbryt", "Flere detaljer", "Neste" ] } ] ``` </pre>
-  
+```json
+[
+  {
+    "name": "personlig-info",
+    "buttons": [
+      "Logg ut",
+      "Avbryt",
+      "Flere detaljer",
+      "Neste"
+    ]
+  },
+  {
+    "name": "personlig-info",
+    "buttons": [
+      "Logg ut",
+      "Avbryt",
+      "Flere detaljer",
+      "Neste"
+    ]
+  }
+]
 to format like
 
 [
